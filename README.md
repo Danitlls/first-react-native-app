@@ -30,3 +30,5 @@ To run your app on Android:
 
 # after:
 * npm install -g create-react-native-app
+
+* https://snack.expo.io/BJ-uC-nrb To try different tags and methods
