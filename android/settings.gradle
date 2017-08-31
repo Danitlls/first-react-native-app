@@ -1,0 +1,3 @@
+rootProject.name = 'first1react1native1app'
+
+include ':app'
